@@ -7,7 +7,6 @@ This repository serves as a dev log containing my notes, solved exercises, and e
 ## 📚 About this project
 
 I am following the "Rust by Example" manual chapter by chapter.
-Since I am focusing on the language syntax and core concepts, **I am not using Cargo** for this repository. Instead, I compile source files directly using `rustc`.
 
 ## 🚀 Progression (Rust by Example)
 
@@ -56,7 +55,7 @@ DOS
 
 .\filename.exe
 ```
- P
+ 
  ## Personal Notes & Tipsace reserved for random notes, useful commands, or "gotchas".
 
 Always read the compiler error messages; they are incredibly helpful in Rust.
