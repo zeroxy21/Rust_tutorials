@@ -55,8 +55,9 @@ On Windows:
 DOS
 
 .\filename.exe
-📝 Personal Notes & Tips
-Space reserved for random notes, useful commands, or "gotchas".
+```
+ P
+ ## Personal Notes & Tipsace reserved for random notes, useful commands, or "gotchas".
 
 Always read the compiler error messages; they are incredibly helpful in Rust.
 
